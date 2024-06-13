@@ -31,3 +31,11 @@ Example JSON payload for messages:
   "timestamp": "2024-06-12T18:58:49.186Z"
 }
 ```
+
+##### Unit testing
+
+For unit tesing i used vitest library you can run automated tests using command
+
+```sh
+ npm run test:unit
+```
